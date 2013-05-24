@@ -1,6 +1,6 @@
-Ruby on Games
+Open Game Stack
 =============
 
-Ruby driven web and mobile games. 
+Open Game Stack driven web and mobile games, based on Ruby, Erlang, Lua, VoltDB ... 
 
-http://rubyongames.org
+http://opengamestack.org
