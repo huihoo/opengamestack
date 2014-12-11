@@ -1,9 +1,9 @@
 Open Game Stack
 =============
 
-Open Game Stack driven web and mobile games, based on Ruby, Erlang, Lua, VoltDB ... 
+Open Game Stack driven web and mobile games, based on PHP, JavaScript, Lua, Erlang, VoltDB ... 
 
-Software Stack
+Game Software Stack
 
 ![eralng game stack](http://wiki.huihoo.com/images/4/49/Erlang-game-stack.png)
 
